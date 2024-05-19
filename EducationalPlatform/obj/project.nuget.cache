@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IvVGp8DPG/TI5ZMulqKVZRceGhgwSAIlhIEX5VFgMOdDIDembT0nTcAqBhngEjHNnXj7P3FTBVaA5sc+DwLj2w==",
+  "dgSpecHash": "u26AKwe7C+sU8szX94d0iRccV4ECorhQxuXAYaFRRpfGRMVncBPJvWkjw3FyCr+9dQ33H1t1OHkNxTBRcqV0Rg==",
   "success": true,
-  "projectFilePath": "D:\\Field Training Project\\New folder (2)\\EducationalPlatform\\EducationalPlatform.csproj",
+  "projectFilePath": "D:\\mipspipeline\\New folder\\EducationalPlatform\\EducationalPlatform.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Windows 10\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Windows 10\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
